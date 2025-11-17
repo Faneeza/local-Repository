@@ -161,7 +161,3 @@ define(['tool_moodlenet/validator',
       }
     };
 
-    return {
-      footerClickListener: footerClickListener
-    };
-  });
